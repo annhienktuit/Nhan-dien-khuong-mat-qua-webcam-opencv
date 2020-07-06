@@ -1,2 +1,2 @@
-# Nhan dien khuong mat qua webcam
+# Face recognition using OpenCV library
  
